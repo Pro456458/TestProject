@@ -2,7 +2,7 @@ package com.core.test;
 
 public class Test2 {
 public static void main(String[] args) {
-	System.out.println("helo");	
-	System.out.println("helo");
+	System.out.println("helo_1");	
+	System.out.println("helo_2");
 }
 }
